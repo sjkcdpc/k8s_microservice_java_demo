@@ -1,4 +1,4 @@
-FROM local.hulai.com/java:8-jdk-alpine
+FROM hub.hulai.com/java:8-jdk-alpine
 
 LABEL Maintainer="madscdpc@gmail.com" \
       Description="Java"
